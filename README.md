@@ -9,8 +9,6 @@ I am Anh Quân, a wed developer and designer, I :heart: contributing to open sou
 - :apple: Java
 - :grapes: Python
 
-![quan's stats](https://github-readme-stats.vercel.app/api?username=anhquanngo&count_private=true&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anhquanngo&show_icons=true&theme=radical)
 <!--
 **anhquanngo/anhquanngo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
