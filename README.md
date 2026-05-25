@@ -1,26 +1,53 @@
-### Hi there 👋
+# Ngo Anh Quan
 
-I am Anh Quân, a wed developer and designer, I :heart: contributing to open source.
+Fullstack Engineer focused on:
+- Realtime systems
+- Web3 infrastructure
+- Photogrammetry & Drone AI
+- Scalable frontend architecture
+- DevOps & self-hosted systems
 
-###
+## Tech Stack
 
-- :green_apple: HTML/CSS
-- :lemon: JavaScript
-- :apple: Java
-- :grapes: Python
+Frontend:
+- Next.js
+- React
+- TypeScript
+- React Native
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anhquanngo&show_icons=true&theme=radical)
-<!--
-**anhquanngo/anhquanngo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend:
+- Node.js
+- NestJS
+- Laravel
+- Ruby on Rails
 
-Here are some ideas to get you started:
+Infra:
+- Docker
+- Linux
+- CI/CD
+- GPU Server
+- Nginx
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Special Interests:
+- OpenDroneMap
+- WebODM
+- Gaussian Splatting
+- AI + Drone Data
+- 3D Reconstruction
+
+## Highlight Projects
+
+### WebODM Custom Deployment
+Custom GPU deployment for NodeODM/WebODM with Docker & NVIDIA runtime.
+
+### Realtime Trading Platform
+Low-latency WebSocket architecture for OTC trading systems.
+
+### Drone Mapping Research
+Researching SfM, OpenMVS, Gaussian Splatting, CesiumJS.
+
+## Contact
+
+- Email
+- LinkedIn
+- Portfolio
